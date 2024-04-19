@@ -1,0 +1,16 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "A simple library to convert CSV files to JSON format.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "converter"
+  ],
+  "author": "Kindrew",
+  "license": ""
+}
